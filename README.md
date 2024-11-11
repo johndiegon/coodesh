@@ -13,6 +13,8 @@ Gestão de Vendas e Estoque é um projeto que reúne consultas SQL otimizadas pa
 
 ## Queries Incluídas
 
+As queries deste projeto estão armazenadas no arquivo **`queries.sql`**, com os seguintes tópicos:
+
 1. **Listar clientes que não realizaram nenhuma compra**:
    - Query para encontrar clientes que não possuem pedidos associados.
 2. **Listar produtos que não foram comprados**:
