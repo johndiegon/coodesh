@@ -1,1 +1,19 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
 
+# Arquivos SQL
+*.sql
+*.bak
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Node (caso use scripts em Node.js)
+node_modules/
+package-lock.json
+yarn.lock
+/.vs/coodesh/FileContentIndex
+/.vs
